@@ -1,7 +1,5 @@
-======
+
 ![logo](/images/Iexplode.png?raw=true)
->>>>>>> be2d149a795d3872786652535271a28f0c639d23
-image:https://travis-ci.org/arduino-libraries/SD.svg?branch=master[Build Status, link=https://travis-ci.org/arduino-libraries/SD]
 
 Small library for debuf prints in your code.
 Support printf-style functions, shorter and easier that use Serial.println() functions in your code. At the end: un define the DEBUGF_ and your code compiles without all debug statements.
