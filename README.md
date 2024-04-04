@@ -1,6 +1,6 @@
 ## DEBUGF function for Arduino =
 
-![logo](/images/DEBUGF.jpg?raw=true)
+![logo](/images/DEBUGF.png?raw=true)
 
 image:https://travis-ci.org/arduino-libraries/SD.svg?branch=master[Build Status, link=https://travis-ci.org/arduino-libraries/SD]
 
