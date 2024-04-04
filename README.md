@@ -1,5 +1,5 @@
 
-![logo](/images/Iexplode.png?raw=true)
+![logo](/images/DEBUGF.png?raw=true)
 
 Small library for debuf prints in your code.
 Support printf-style functions, shorter and easier that use Serial.println() functions in your code. At the end: un define the DEBUGF_ and your code compiles without all debug statements.
