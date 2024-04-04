@@ -1,7 +1,5 @@
 ## DEBUGF function for Arduino =
-
-![logo](/images/DEBUGF.png?raw=true)
-
+![logo](/images/Iexplode.png?raw=true)
 image:https://travis-ci.org/arduino-libraries/SD.svg?branch=master[Build Status, link=https://travis-ci.org/arduino-libraries/SD]
 
 Small library for debuf prints in your code.
