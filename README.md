@@ -1,4 +1,4 @@
-
+## DEBUGF function for Arduino, replacing Serial.print()
 ![logo](/images/DEBUGF.png?raw=true)
 
 Small library for debuf prints in your code.
