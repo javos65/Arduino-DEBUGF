@@ -23,6 +23,7 @@ extern void Debugbuffer_8H(uint8_t* b,int size,int step);
 extern void Debugbuffer_16H(uint16_t* b,int size,int step);
 extern void Debugbuffer_32H(uint32_t* b,int size,int step);
 extern void Debugbuffer_8B(uint8_t* b,int size,int step);
+extern void DEBUGFinit(uint32_t speed);
 
 #if DEBUGF_
 #define _MYSERIALPORT Serial

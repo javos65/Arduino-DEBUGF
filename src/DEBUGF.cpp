@@ -16,6 +16,11 @@
 
 char _SERIALBUF[256]; // used 128 bytes Memory
 
+void DEBUGFinit(uint32_t baudrate)
+{
+ if (!_MYSERIALPORT) _MYSERIALPORT.begin(baudrate);          // start your debug serial port         
+}
+
 // Debug function : print buffer in hex and char format //
 void Debugbuffer_8H(uint8_t* b,int size,int step)
 {
