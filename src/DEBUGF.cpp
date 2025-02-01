@@ -8,6 +8,9 @@
 * | Date        :   2024-01-16
 * | Info        :   Basic version
 *
+*
+* https://github.com/javos65/Arduino-DEBUGF
+*
 ******************************************************************************/
 
 #include "DEBUGF.h"
